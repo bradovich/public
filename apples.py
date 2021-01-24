@@ -10,11 +10,10 @@ class Apple:
 
 # customer requests order of apples
 # order cannot exceed 1000 apples or 300 pounds
-order = []
+
 for i in range(1000):
     while Apple.tw <= 300:
         tempapp = Apple()
-        order.append(tempapp)
         Apple.ct += 1
 
 print("Number of apples:",Apple.ct)
