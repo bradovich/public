@@ -1,5 +1,5 @@
 # Welcome! 
-## I post some of my favorite code snippets, projects, visualizations, and more.
+## I post some of my favorite code snippets, notebooks, visualizations, and more.
 https://bradovich.github.io/
 
 ### c-section.ipynb:  
