@@ -7,7 +7,7 @@ Predicts whether a woman giving birth should have a C-section using a Deep Neura
 ### emotions.ipynb:  
 Predicts emotion of any text string using Natural Language Processing in TensorFlow - trained from Reddit comments.
 ### credit_card_fraud-model.ipynb:
-Predicts fraudulent credit card payments using a variety of classification models in Scikit-Learn and TensorFlow.
+Predicts fraudulent credit card payments using classification models in Scikit-Learn and TensorFlow.
 ### final.R:  
 Code from Data Visualization final (bradovich.github.io).
 ### mandelbrot.py:  
