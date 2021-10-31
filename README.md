@@ -18,4 +18,5 @@ Algorithms to solve Ax=b of nonlinear banana function using steepest descent and
 R script to download data, query SQLite script, and save file for Tableau.
 ### primes_v0.1.ipynb:  
 Python script that calculates prime numbers.
-
+### vdot.py:  
+Python script using Selenium that completes a form for the Jack Daniels VDot calculator webpage and returns a VDot value.
